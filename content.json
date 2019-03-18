@@ -4,14 +4,14 @@
     "book_name": "Air Vents",
     "book_description": "Air Release / Vacuum Relief Valves provide vital protection to pipeline systems. They allow air to escape during system startup by preventing air restrictions, water hammer aused by large air masses, inaccurate flow meter readings, and explosive conditions from air being compressed by water.",
     "book_image": "https://www.jainsusa.com/iosappdata/JPEGS/Air-Vents.jpg",
-    "book_link": "https://drive.google.com/uc?export=download&id=1LE4D4fi-bkYLiLSZmaVE190shaFWopUw"
+    "book_link": "https://github.com/anazareth559/iosappdata/blob/master/Air-Vents.pdf"
   },
   {
     "single_book_id": "10002",
     "book_name": "Amnon",
     "book_description": "Amnon is a an innovative, pressure compensating dripline utilizing the Cascade Labyrinth and includes special anti-siphon and compensating non-leak models.",
     "book_image": "https://www.jainsusa.com/iosappdata/JPEGS/Amnon.jpg",
-    "book_link": "https://www.jainsusa.com/iosappdata/Brochures/Amnon.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Arthur%2BConan%2BDoyle%2B-%2BThe%2BAdventures%2Bof%2BSherlock%2BHolmes.pdf"
   },
   {
     "single_book_id": "10003",
